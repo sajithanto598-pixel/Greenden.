@@ -1,64 +1,60 @@
-# Greenden.
-🌿 Greenden – Greenden is a modern and fully responsive plant e-commerce website built using HTML and Tailwind CSS. It features a clean user interface, product showcase sections, smooth hover effects, and mobile-friendly layouts. The project highlights responsive design skills, reusable UI components, and modern front-end development practices.
-✨ Features
+# Greenden
+GreenDen is a modern, responsive plant e-commerce website built using HTML and Tailwind CSS. It features a clean UI, mobile-first design, product showcase sections, and a professional contact page layout.
+# 🌿 GreenDen – Modern Plant Store Website
 
-🌱 Modern and clean UI design
+GreenDen is a fully responsive plant e-commerce website built using **HTML** and **Tailwind CSS**.  
+The project focuses on clean UI design, modern layout structure, and mobile-first responsiveness.
 
-📱 Fully responsive (Mobile, Tablet & Desktop)
+---
 
-🛍️ Product showcase section
+## 📌 Features
 
-📦 Best seller section
+- 🌱 Modern and clean user interface
+- 📱 Fully responsive (Mobile, Tablet & Desktop)
+- 🛒 Product showcase section
+- 🏷️ Best Seller section
+- 📩 Contact page with styled form
+- 🧭 Responsive navigation bar
+- 🎨 Built completely using Tailwind CSS utility classes
+- ⚡ Smooth hover effects and transitions
 
-📩 Contact page
+---
 
-🧭 Responsive navigation bar
+## 🛠️ Tech Stack
 
-🎨 Smooth hover effects and transitions
+- HTML5
+- Tailwind CSS (CDN version)
+- Responsive Design Principles
 
-⚡ Built using Tailwind CSS utility classes
+--
 
-🛠️ Technologies Used
+## 🎯 Project Goal
 
-HTML5
+The goal of this project is to:
 
-Tailwind CSS
+- Practice modern UI development
+- Improve Tailwind CSS skills
+- Build a real-world responsive website layout
+- Prepare a professional portfolio project
 
-CSS3
+---
 
-📂 Project Structure
-Greenden/
-│
-├── index.html
-├── contact.html
-├── products.html
-├── img/
-└── README.md
-🎯 Purpose of the Project
+## 🔮 Future Improvements
 
-This project was built to:
+- Add JavaScript for cart functionality
+- Add product filtering system
+- Integrate backend (Node.js / Firebase)
+- Add payment gateway integration
 
-Practice responsive web design
+---
 
-Improve Tailwind CSS skills
+## 👨‍💻 Author
 
-Understand modern layout techniques (Flexbox & Grid)
+**N. Sajith Anto**
+- Location: India
 
-Build a professional portfolio-ready website
+---
 
-🔮 Future Improvements
+## 📄 License
 
-Add shopping cart functionality
-
-Add product filtering
-
-Backend integration
-
-User authentication system
-
-Payment gateway integration
-
-👨‍💻 Author
-
-N. Sajith Anto
-Frontend Developer
+This project is open-source and free to use.
